@@ -10,7 +10,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Los Finance - Decentralized Blockchain Finance",
   description: "Revolutionary decentralized finance platform powered by blockchain technology",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
